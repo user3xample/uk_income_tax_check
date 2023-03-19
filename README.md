@@ -1,7 +1,7 @@
-# uk_income_tax_calc
+![Uk income tax checker header image](images/UK_income_tax_checker.png "Uk income tax")
 
 ### Basic cli tool writen in python3 for checking your UK income tax liabilities.
-
+___
 
 
 #### Uk income tax:
@@ -9,7 +9,7 @@
 
 Data correct on 19/03/2023. 
 
-#### how to use:
+### How to use:
 + When prompted just enter your total income and it will work out the rest.
 
 
