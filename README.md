@@ -7,7 +7,7 @@
 #### Uk income tax:
 ![Uk income tax image](UK_income_tax.PNG "Uk income tax")
 
-Data correct on 19/03/2023 
+Data correct on 19/03/2023. 
 
 #### how to use:
 + When prompted just enter your total income and it will work out the rest.
