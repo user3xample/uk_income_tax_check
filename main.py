@@ -3,10 +3,10 @@
 UK Income tax calculator
 created by User3xample
 find the source:
-https://github.com/user3xample/uk_income_tax_calc
+https://github.com/user3xample/uk_income_tax_check
 
 licence:
-https://github.com/user3xample/uk_income_tax_calc/blob/main/LICENSE
+https://github.com/user3xample/uk_income_tax_check/blob/main/LICENSE
 
 I hope you find this useful.
 """

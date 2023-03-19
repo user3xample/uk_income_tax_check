@@ -5,7 +5,7 @@
 
 
 #### Uk income tax:
-![Uk income tax image](UK_income_tax.PNG "Uk income tax")
+![Uk income tax image](images/UK_income_tax.PNG "Uk income tax")
 
 Data correct on 19/03/2023. 
 
