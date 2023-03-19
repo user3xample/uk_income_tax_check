@@ -1,6 +1,14 @@
 #! /usr/bin/env python3
 """
 UK Income tax calculator
+created by User3xample
+find the source:
+https://github.com/user3xample/uk_income_tax_calc
+
+licence:
+https://github.com/user3xample/uk_income_tax_calc/blob/main/LICENSE
+
+I hope you find this useful.
 """
 
 import os
